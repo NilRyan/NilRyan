@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Java through https://java-programming.mooc.fi/.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NilRyan)
+[![NilRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilRyan)](https://github.com/NilRyan/github-readme-stats)
+
