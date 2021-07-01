@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 
 <!--
 **NilRyan/NilRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NilRyan)
-
 [![NilRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilRyan)](https://github.com/NilRyan/github-readme-stats)
-🔭 Projects built while learning.
+
+# 🔭 Projects built while learning.
 [![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=tic-tac-toe)](https://github.com/NilRyan/tic-tac-toe)
 [![restaura-server](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaura-server)](https://github.com/NilRyan/restaura-server)
 [![restaura-frontend](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaura-frontend)](https://github.com/NilRyan/restaura-frontend)
