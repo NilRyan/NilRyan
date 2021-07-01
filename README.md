@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Java through https://java-programming.mooc.fi/.
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NilRyan)
