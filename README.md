@@ -29,5 +29,11 @@ Here are some ideas to get you started:
 [![cv-project](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=cv-project)](https://github.com/NilRyan/cv-project)
 [![chat-app-frontend](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=chat-app-frontend)](https://github.com/NilRyan/chat-app-frontend)
 [![Chat-App](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Chat-App)](https://github.com/NilRyan/Chat-App)
+[![library](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=library)](https://github.com/NilRyan/library)
+[![to-do-list](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=to-do-list)](https://github.com/NilRyan/to-do-list)
+[![rock-paper-scissors](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=rock-paper-scissors)](https://github.com/NilRyan/rock-paper-scissors)
+[![calculator](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=calculator)](https://github.com/NilRyan/calculator)
+[![etch-a-sketch](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=etch-a-sketch)](https://github.com/NilRyan/etch-a-sketch)
+[![library](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=library)](https://github.com/NilRyan/library)
 
 
