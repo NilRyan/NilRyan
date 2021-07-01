@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![restaura-server](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaura-server)](https://github.com/NilRyan/restaura-server)
 [![restaura-frontend](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaura-frontend)](https://github.com/NilRyan/restaura-frontend)
 [![covid-tracker-nextjs](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=covid-tracker-nextjs)](https://github.com/NilRyan/covid-tracker-nextjs)
-[![cv-project](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=cv-project/)](https://github.com/NilRyan/cv-project/)
+[![cv-project](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=cv-project)](https://github.com/NilRyan/cv-project)
+[![chat-app-frontend](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=chat-app-frontend)](https://github.com/NilRyan/chat-app-frontend)
+[![Chat-App](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Chat-App)](https://github.com/NilRyan/Chat-App)
 
 
