@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 [![etch-a-sketch](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=etch-a-sketch)](https://github.com/NilRyan/etch-a-sketch)
 [![library](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=library)](https://github.com/NilRyan/library)
 
+# ⚡ Notes
+[![notes](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=notes)](https://github.com/NilRyan/notes)
+
+
 
