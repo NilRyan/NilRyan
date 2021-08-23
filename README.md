@@ -42,5 +42,7 @@ Here are some ideas to get you started:
 # ⚡ Notes
 [![notes](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=notes)](https://github.com/NilRyan/notes)
 
+# Solutions to JAVA MOOCFI
+[![JAVA-MOOFCI-PART(I)](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Java-Programming)](https://github.com/NilRyan/Java-Programming)
 
 
