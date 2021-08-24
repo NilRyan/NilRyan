@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 # Solutions to JAVA MOOCFI
 [![JAVA-MOOFCI-PART(I)](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Java-Programming)](https://github.com/NilRyan/Java-Programming)
 
-## Solutions to Jetbrains Academy Java Track
+# Solutions to Jetbrains Academy Java Track
 [![Tic_Tac_Toe](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Simple_Tic_Tac_Toe)](https://github.com/NilRyan/Simple_Tic_Tac_Toe)
 
 
