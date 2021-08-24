@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 [![notes](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=notes)](https://github.com/NilRyan/notes)
 
 # Solutions to JAVA MOOCFI
-[![JAVA-MOOFCI-PART(I)](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Java-Programming)](https://github.com/NilRyan/Java-Programming)
+[![JAVA-MOOFCI-PART(I)](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Java-Programming-I)](https://github.com/NilRyan/Java-Programming-I)
+[![JAVA-MOOFCI-PART(II)](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Java-Programming-II)](https://github.com/NilRyan/Java-Programming-II)
 
 # Solutions to Jetbrains Academy Java Track
 [![Tic_Tac_Toe](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=Simple_Tic_Tac_Toe)](https://github.com/NilRyan/Simple_Tic_Tac_Toe)
