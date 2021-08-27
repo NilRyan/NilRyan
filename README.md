@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 # 🔭 Projects built
 [![n1-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=n1-landing-page)](https://github.com/NilRyan/n1-landing-page)
-[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=tic-tac-toe)](https://github.com/NilRyan/tic-tac-toe)
 [![restaurant-server](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaurant-server)](https://github.com/NilRyan/restaurant-server)
 [![restaurant-frontend](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=restaurant-frontend)](https://github.com/NilRyan/restaurant-frontend)
 [![covid-tracker-nextjs](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=covid-tracker-nextjs)](https://github.com/NilRyan/covid-tracker-nextjs)
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
 [![rock-paper-scissors](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=rock-paper-scissors)](https://github.com/NilRyan/rock-paper-scissors)
 [![calculator](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=calculator)](https://github.com/NilRyan/calculator)
 [![etch-a-sketch](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=etch-a-sketch)](https://github.com/NilRyan/etch-a-sketch)
+[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=tic-tac-toe)](https://github.com/NilRyan/tic-tac-toe)
 [![library](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=library)](https://github.com/NilRyan/library)
 [![mini-message-board](https://github-readme-stats.vercel.app/api/pin/?username=NilRyan&repo=mini-message-board)](https://github.com/NilRyan/mini-message-board)
 
