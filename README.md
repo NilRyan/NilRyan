@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Neil Ryan</h1>
-<h3 align="center">I don't know why, but it works.</h3>
 
+<h1 align="center">Hi 👋, I'm Neil Ryan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilryan&label=Profile%20views&color=0e75b6&style=flat" alt="nilryan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilryan" alt="nilryan" /></a> </p>
+
+<h3 align="left">I don't know why, but it works.</h3>
 
 - 🌱 I’m currently learning **Spring** & **Docker**
 
