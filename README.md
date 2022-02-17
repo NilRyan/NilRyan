@@ -6,7 +6,7 @@
 
 <h3 align="left">I don't know why, but it works.</h3>
 
-- 🌱 I’m currently learning **Spring** & **Docker**
+- 🌱 I’m trying out **NestJS**
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
 <h3 align="left">Connect with me:</h3>
