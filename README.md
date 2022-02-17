@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilryan" alt="nilryan" /></a> </p> -->
 
-<h3 align="left">I don't know why, but it works.</h3>
+<h3 align="left">Wow, it works.</h3>
 
 - 🌱 I’m trying out **NestJS** with **TypeScript**
 
