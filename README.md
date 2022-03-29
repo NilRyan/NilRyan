@@ -8,6 +8,7 @@
 
 - 🌱 I’m trying out **NestJS** with **TypeScript**
 - 😵‍💫 Attempting to learn Flutter again
+- Trying to improve each day 
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
 <h3 align="left">Connect with me:</h3>
