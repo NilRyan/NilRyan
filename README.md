@@ -7,7 +7,7 @@
 <h3 align="left">Wow, it works.</h3>
 
 - 🌱 I’m trying out **NestJS** with **TypeScript**
-- 😵‍💫 Attempting to learn Flutter again
+- 😵‍💫 Attempting to learn Flutter again (Building a dating app for the lulz)
 - Trying to improve each day 
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
