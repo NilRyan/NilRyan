@@ -23,6 +23,7 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilryan&" alt="nilryan" /> 
+  <br></br>
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nilryan&show_icons=true&locale=en&layout=compact" alt="nilryan"/></p>
 
 
