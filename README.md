@@ -8,6 +8,7 @@
 
 - 🌱 I’m trying out **NestJS** with **TypeScript**
 - 😵‍💫 Attempting to learn Flutter again (Building a dating app for the lulz)
+- Will be exploring Go soon
 - Trying to improve each day 
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
