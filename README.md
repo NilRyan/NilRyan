@@ -6,8 +6,8 @@
 
 <h3 align="left">Wow, it works.</h3>
 
-- 🌱 I’m trying out **NestJS** with **TypeScript**
-- 😵‍💫 Attempting to learn Flutter again (Building a dating app for the lulz)
+- 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript**
+- 😵‍💫 Playing with Flutter on free days (Building a dating app for the lulz)
 - Will be exploring Go soon
 - Trying to improve each day 
 
