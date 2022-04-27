@@ -8,7 +8,7 @@
 
 - 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript**
 - 😵‍💫 Playing with Flutter on free days (Building a dating app for the lulz)
-- Will be exploring Go soon
+- Exploring go with https://quii.gitbook.io/learn-go-with-tests/
 - Trying to improve each day 
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
