@@ -12,7 +12,8 @@
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://lets-go.alexedwards.net/
   - https://lets-go-further.alexedwards.net/
-  - Building a CLI tool for changelogs
+  Trying to be build:
+    - A CLI tool for changelogs
 - Trying to improve each day 
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
