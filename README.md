@@ -12,6 +12,7 @@
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://lets-go.alexedwards.net/
   - https://lets-go-further.alexedwards.net/
+  
   Trying to be build:
     - A CLI tool for changelogs
     - A 2D game using https://github.com/hajimehoshi/ebiten
