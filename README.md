@@ -7,7 +7,7 @@
 <h3 align="left">Wow, it works.</h3>
 
 - 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript**
-- 😵‍💫 Playing with Flutter on free days (Building a dating app for the lulz)
+- 😵‍💫 Playing with Flutter and React on free days
 - Exploring Golang with 
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://lets-go.alexedwards.net/
