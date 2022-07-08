@@ -6,7 +6,7 @@
 
 <h3 align="left">Wow, it works.</h3>
 
-- 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript** and **Java** with **Spring**
+- 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript** and **Spring** with **Java**
 - Exploring Golang with 
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://lets-go.alexedwards.net/
