@@ -8,6 +8,7 @@
 
 - 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript** and **Spring** with **Java**
 - Preparing for the [CKAD](https://www.cncf.io/certification/ckad/) exam -> Planning to take Q4 2022
+- Preparing for the [AWS SA - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) -> Planning to take October 2022
 - I LOVE CLEAN ARCHITECTURE WOOO :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts:
 - Exploring Golang with 
   - https://quii.gitbook.io/learn-go-with-tests/
