@@ -19,7 +19,7 @@
     - A CLI tool for changelogs
     - A 2D game using https://github.com/hajimehoshi/ebiten
 - Looking into: RedwoodJS, AWS, Gitlab CI/CD
-- Trying to improve each day 
+- Trying to improve each day without burning out
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
 <h3 align="left">Connect with me:</h3>
