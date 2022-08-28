@@ -18,7 +18,7 @@
   Trying to be build:
     - A CLI tool for changelogs
     - A 2D game using https://github.com/hajimehoshi/ebiten
-- Looking into: RedwoodJS, AWS, Gitlab CI/CD
+- Looking into: RedwoodJS, AWS, Gitlab CI/CD, Terraform, Ansible
 - Trying to improve each day without burning out
 
 - 📫 Reach me @ **neilryanlipaod@gmail.com**
