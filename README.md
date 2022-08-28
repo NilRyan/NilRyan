@@ -21,7 +21,7 @@
 - Looking into: RedwoodJS, AWS, Gitlab CI/CD, Terraform, Ansible
 - Trying to improve each day without burning out
 
-- 📫 Reach me @ **neilryanlipaod@gmail.com**
+- 📫 Reach me @ **neilryanlipaod@indifferentcat.dev**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neil-ryan-lipa-od-35a051217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neil-ryan-lipa-od-35a051217" height="30" width="40" /></a>
