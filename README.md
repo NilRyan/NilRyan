@@ -9,6 +9,8 @@
 - 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript** and **Spring** with **Java**
 - Preparing for the [CKAD](https://www.cncf.io/certification/ckad/) exam
 - Preparing for the [AWS SA - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) exam
+- Getting better at JS and React
+<!---
 - Exploring Golang by building CLI tools and will probably learn how to use it on the backend as well
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://lets-go.alexedwards.net/
@@ -19,7 +21,7 @@
     - A 2D game using https://github.com/hajimehoshi/ebiten
 - Looking into: RedwoodJS, AWS, Gitlab CI/CD, Terraform, Ansible
 - Trying to improve each day without burning out
-
+-->
 - 📫 Reach me @ **neilryanlipaod@indifferentcat.dev**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
