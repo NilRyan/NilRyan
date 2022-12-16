@@ -8,7 +8,6 @@
 
 - 🌱 I’m a Backend Web Developer currently using **NestJS** with **TypeScript** and **Spring** with **Java**
 - Preparing for the [CKAD](https://www.cncf.io/certification/ckad/) exam
-- Preparing for the [AWS SA - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) exam
 - Getting better at JS and React
 <!---
 - Exploring Golang by building CLI tools and will probably learn how to use it on the backend as well
